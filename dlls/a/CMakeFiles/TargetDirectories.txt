@@ -1,0 +1,3 @@
+/home/isaac/clones/cl_dll_base/dlls/a/CMakeFiles/server.dir
+/home/isaac/clones/cl_dll_base/dlls/a/CMakeFiles/edit_cache.dir
+/home/isaac/clones/cl_dll_base/dlls/a/CMakeFiles/rebuild_cache.dir
