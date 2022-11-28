@@ -1,4 +1,7 @@
-[English](#csbte-mobile) | [中文(简体)](#csbte-mobile项目)  
+Server files taken from CSBTE-Mobile.
+
+
+Original README:
 
 # CSBTE-Mobile
 Here is the source code of CSBTE-Mobile (windows and linux only). \
